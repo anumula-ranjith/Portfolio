@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/1M_wEOp1rgL67eMcZThEkAC_s3UOsYn0D/view",
   portfolio_repository: "https://github.com/anumularanjith",
   githubProfile: "https://github.com/anumularanjith",
 };
@@ -737,7 +737,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Fronetend, AI, React,  and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
@@ -749,14 +749,14 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
+      "MahanKali Nagar, Kukatpally, Hyderabad, Dist.-Medchal, Telangana - 500072",
+    locality: "Kukatpally",
     country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    region: "Telangana",
+    postalCode: "500072",
+    streetAddress: "Kukatpally",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://maps.app.goo.gl/SpbsXKGf4qe3xuCY9",
   },
   phoneSection: {
     title: "",
