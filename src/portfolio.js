@@ -749,7 +749,7 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "MahanKali Nagar, Kukatpally, Hyderabad, Dist.-Medchal, Telangana - 500072",
+      "Mahankali Nagar, Kukatpally, Hyderabad, Dist.-Medchal, Telangana - 500072",
     locality: "Kukatpally",
     country: "IN",
     region: "Telangana",
