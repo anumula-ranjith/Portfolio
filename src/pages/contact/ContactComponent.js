@@ -71,7 +71,7 @@ class Contact extends Component {
                   <Button
                     text="Visit My Blogsite"
                     newTab={true}
-                    href={blogSection.link}
+                    // href={blogSection.link}
                     theme={theme}
                   />
                 </div>
