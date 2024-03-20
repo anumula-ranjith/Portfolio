@@ -524,9 +524,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work and Internship ",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "Having collaborated with diverse startups and established companies, I've wielded expertise in ML, DL, and AI development. My involvement in open-source communities as a representative underscores my commitment to fostering collaboration. Skilled in frontend and full-stack development, I've contributed to comprehensive solutions. With a passion for organizing events, I strive to amplify technological advancements.",
   header_image_path: "experience.svg",
   sections: [
     {
