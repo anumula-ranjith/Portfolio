@@ -493,11 +493,11 @@ const certifications = {
     },
     {
       title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
+      subtitle: "- Swecha",
+      logo_path: "Swecha-Telangana-Logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
+        "https://learning.swecha.org/course/view.php?id=342",
+      alt_name: "Swecha",
       color_code: "#2A73CC",
     },
     {
