@@ -501,12 +501,12 @@ const certifications = {
       color_code: "#4285F499",
     },
     {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
+      title: "Java Programming",
+      subtitle: "- Great Learning",
       logo_path: "nptel_logo.png",
       certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
+        "https://olympus.mygreatlearning.com/courses/12385/certificate",
+      alt_name: "GreatLearning",
       color_code: "#FFBB0099",
     },
     {
