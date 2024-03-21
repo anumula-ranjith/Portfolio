@@ -413,7 +413,7 @@ const certifications = {
     {
       title: "Hackathon Winner",
       subtitle: "- hackzone",
-      logo_path: "ramco-logos.png",
+      logo_path: "ramco_logo.png",
       certificate_link:
         "https://www.credly.com/badges/a21bd597-7272-4bb9-9bfa-892a96df9b70/linked_in_profile",
       alt_name: "Ramco Systems",
@@ -431,7 +431,7 @@ const certifications = {
     {
       title: "Google Foundations: Data, Data, Everywhere",
       subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
+      logo_path: "google_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/K6X44AK9THRK",
       alt_name: "GCP",
@@ -440,7 +440,7 @@ const certifications = {
     {
       title: "Front End Development Libraries",
       subtitle: "-  Free Code Camp",
-      logo_path: "google_logo.png",
+      logo_path: "frontend.png",
       certificate_link:
         "https://www.freecodecamp.org/certification/fccd638006a-857b-4b82-b9c6-c6bc99fc16a0/front-end-development-libraries",
       alt_name: "FreeCodeCamp",
@@ -449,7 +449,7 @@ const certifications = {
     {
       title: "Responsive Web Design",
       subtitle: "- Free Code Camp",
-      logo_path: "ibm_logo.png",
+      logo_path: "webdesign.png",
       certificate_link:
         "https://www.freecodecamp.org/certification/fccd638006a-857b-4b82-b9c6-c6bc99fc16a0/responsive-web-design",
       alt_name: "FreeCodeCamp",
@@ -458,7 +458,7 @@ const certifications = {
     {
       title: "Data Analysis With Python",
       subtitle: "- Free Code Camp",
-      logo_path: "microsoft_logo.png",
+      logo_path: "freecodecamp.png",
       certificate_link:
         "https://www.freecodecamp.org/certification/fccd638006a-857b-4b82-b9c6-c6bc99fc16a0/data-analysis-with-python-v7",
       alt_name: "FreeCodeCamp",
@@ -467,7 +467,7 @@ const certifications = {
     {
       title: "College Algebra With Python",
       subtitle: "- Free Code Camp",
-      logo_path: "ibm_logo.png",
+      logo_path: "freecodecamp.png",
       certificate_link:
         "https://www.freecodecamp.org/certification/fccd638006a-857b-4b82-b9c6-c6bc99fc16a0/college-algebra-with-python-v8",
       alt_name: "FreeCodeCamp",
@@ -485,7 +485,7 @@ const certifications = {
     {
       title: "React Js ",
       subtitle: "- Morgan Page",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "reactimage.png",
       certificate_link:
         "https://www.udemy.com/certificate/UC-720b06f0-a928-4c21-88ce-a29297a77239/",
       alt_name: "reactjs.ai",
@@ -503,7 +503,7 @@ const certifications = {
     {
       title: "Html And Css ",
       subtitle: "- cutshort",
-      logo_path: "gcp_logo.png",
+      logo_path: "frontend.png",
       certificate_link:
         "https://cutshort.io/certificate/82439",
       alt_name: "cutshort",
