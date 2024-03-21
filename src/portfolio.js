@@ -429,6 +429,15 @@ const certifications = {
       color_code: "#00000099",
     },
     {
+      title: "Google Foundations: Data, Data, Everywhere",
+      subtitle: "- Qwiklabs",
+      logo_path: "gcp_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/K6X44AK9THRK",
+      alt_name: "GCP",
+      color_code: "#4285F499",
+    },
+    {
       title: "Front End Development Libraries",
       subtitle: "-  Free Code Camp",
       logo_path: "google_logo.png",
@@ -509,15 +518,7 @@ const certifications = {
       alt_name: "GreatLearning",
       color_code: "#FFBB0099",
     },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
+
   ],
 };
 
